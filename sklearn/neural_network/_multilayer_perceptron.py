@@ -1019,11 +1019,12 @@ class MLPClassifier(ClassifierMixin, BaseMultilayerPerceptron):
         on Artificial Intelligence and Statistics. 2010.
 
     He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level
-        performance on imagenet classification." arXiv preprint
-        arXiv:1502.01852 (2015).
+        performance on imagenet classification." arXiv preprint (2015).
+        :arXiv:`<1502.01852>` 
 
     Kingma, Diederik, and Jimmy Ba. "Adam: A method for stochastic
-        optimization." arXiv preprint arXiv:1412.6980 (2014).
+        optimization." arXiv preprint (2014).
+        :arXiv:`<1412.6980> 
 
     Examples
     --------
@@ -1491,11 +1492,12 @@ class MLPRegressor(RegressorMixin, BaseMultilayerPerceptron):
         on Artificial Intelligence and Statistics. 2010.
 
     He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level
-        performance on imagenet classification." arXiv preprint
-        arXiv:1502.01852 (2015).
+        performance on imagenet classification." arXiv preprint (2015).
+        :arXiv:`<1502.01852>` 
 
     Kingma, Diederik, and Jimmy Ba. "Adam: A method for stochastic
-        optimization." arXiv preprint arXiv:1412.6980 (2014).
+        optimization." arXiv preprint (2014).
+        :arXiv:`<1412.6980> 
 
     Examples
     --------

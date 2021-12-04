@@ -172,10 +172,9 @@ Note: the implementation of ``inverse_transform`` in :class:`PCA` with
       <0909.4061>`
       Halko, et al., 2009
 
-    * `"An implementation of a randomized algorithm for principal component
-      analysis"
-      <https://arxiv.org/pdf/1412.3510.pdf>`_
-      A. Szlam et al. 2014
+    * :arxiv:`"An implementation of a randomized algorithm for principal component
+      analysis" <1412.3510>`_
+	  A. Szlam et al. 2014 
 
 .. _SparsePCA:
 
@@ -347,10 +346,9 @@ components is less than 10 (strict) and the number of samples is more than 200
           <0909.4061>`
           Halko, et al., 2009
 
-        * `"An implementation of a randomized algorithm for principal component
-          analysis"
-          <https://arxiv.org/pdf/1412.3510.pdf>`_
-          A. Szlam et al. 2014
+        * :arxiv:`"An implementation of a randomized algorithm for principal component analysis" 
+		<1412.3510>`_
+		A. Szlam et al. 2014 
 
     * *arpack* solver:
       `scipy.sparse.linalg.eigsh documentation
@@ -933,8 +931,8 @@ stored components::
       <http://www.bsp.brain.riken.jp/publications/2009/Cichocki-Phan-IEICE_col.pdf>`_
       A. Cichocki, A. Phan, 2009
 
-    .. [6] `"Algorithms for nonnegative matrix factorization with the beta-divergence"
-      <https://arxiv.org/pdf/1010.1763.pdf>`_
+    .. [6] :arxiv: `"Algorithms for nonnegative matrix factorization with the beta-divergence"
+      <1010.1763>`_
       C. Fevotte, J. Idier, 2011
 
 
